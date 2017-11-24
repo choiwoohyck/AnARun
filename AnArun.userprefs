@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Move.cs">
+    <Files>
+      <File FileName="Assets\Script\Move.cs" Line="34" Column="3" />
+      <File FileName="Assets\Script\Move_BackGround.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Obstacle2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Start_Game.cs" Line="11" Column="3" />
+      <File FileName="Assets\Script\Obstacle3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\exit.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
